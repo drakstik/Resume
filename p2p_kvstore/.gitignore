@@ -1,0 +1,17 @@
+a.out
+.vscode
+test/test
+test/test.out
+test/test_serialization
+data/datafile.*
+dataf
+demo
+serial
+trivial
+data/*.ltgt
+linus
+map
+word
+test/test_map
+test/test_kvstore
+kvstore
